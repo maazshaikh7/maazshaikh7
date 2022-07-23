@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maazshaikh7
-- 👀 I’m interested in either everything or nothing
+- 👀 I’m interested in travelling
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking forward to work as a web developer
 - 📫 How to reach me - Mail me at maazshaikh4559@gmail.com
 
 <!---
