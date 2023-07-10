@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @maazshaikh7
-- 👀 I’m interested in travelling
+- 👋 Hi, I’m Maaz Shaikh
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking forward to work as a web developer
-- 📫 How to reach me - Mail me at maazshaikh4559@gmail.com
+- 📫 How to reach me - https://maazshaikh.netlify.app
 
 <!---
 maazshaikh7/maazshaikh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
